@@ -1,0 +1,1 @@
+--select Territoryid INTO newregionid2017 from Territories
